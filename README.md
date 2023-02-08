@@ -1,6 +1,6 @@
 # Animated Card v1
 
-![vid](./Timeline%202.mov)
+![vid](https://media.giphy.com/media/QEgtk4SfYLLd19NHKC/giphy.gif)
 
 ## Technologies Used:
 
